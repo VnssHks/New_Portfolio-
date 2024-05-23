@@ -5,7 +5,7 @@ Welcome to my portfolio! This website serves as a showcase of my work and skills
 ## Features
 
 - **Project Showcase:** Browse through my recent projects and see examples of my work.
-- **Code Availability:** The code for this portfolio website is available on GitHub. Feel free to fork or contribute to it.
+- **Code Availability:** The code for this portfolio website is available on GitHub. Feel free to use it for your own Portfolio
 - **Contact Me:** I'm open to new projects and collaborations. You can reach me via GitHub or Linkedin.
 
 ## Getting Started
