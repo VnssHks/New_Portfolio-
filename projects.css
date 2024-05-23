@@ -104,31 +104,32 @@ body{
   opacity: 1;
 }
 #back-to-top-btn {
-  display: none; /* Initially hide the button */
-  justify-content: center; /* Horizontally center the content */
-  align-items: center; /* Vertically center the content */
+  z-index: 1000;
+  display: none; 
+  justify-content: center; 
+  align-items: center; 
   position: fixed;
   bottom: 20px;
   right: 20px;
-  width: 38px; /* Equal width and height for a perfectly round button */
-  height: 38px; /* Equal width and height for a perfectly round button */
+  width: 38px; 
+  height: 38px; 
   padding: 10px;
-  background-color: #afafaf; /* Button background color */
-  color: #fff; /* Button text color */
-  border-radius: 50%; /* Make it circular */
+  background-color: #515151; 
+  color: #000000; 
+  border-radius: 50%; 
   text-decoration: none;
-  z-index: 1000;
 }
 
 #back-to-top-btn:hover {
-  background-color: #c6c6c6e3; /* Button background color on hover */
-  color: #fff; /* Button text color on hover */
+  background-color: #8f8f8fe3; 
+  color: #000000;
 }
+
 #back-to-top-btn i {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%); /* Center the icon horizontally and vertically */
+  transform: translate(-50%, -50%); 
   font-size: 20px;
 }
 
