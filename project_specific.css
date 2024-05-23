@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   font-family: 'Raleway', sans-serif;
-  font-weight: 400; /* Adjust the font weight as needed */
+  font-weight: 400; 
 }
 .work-container {
   display: flex;
@@ -37,7 +37,7 @@ p {
   width: 100%;
 }
 
-/* Make sure the work items are flex items and take equal space */
+
 .smaller-container .work-item {
   flex: 1;
   display: flex;
@@ -46,7 +46,7 @@ p {
   color: #919191;
 }
 
-/* Adjust the content within each work-item */
+
 .smaller-container .work-item .content {
   box-sizing: border-box;
 }
@@ -175,8 +175,8 @@ p {
 }
 #section2 .content {
   display: grid;
-  place-items: center; /* Center the content both horizontally and vertically */
-  gap: 10px; /* Adjust grid gap as needed */
+  place-items: center; 
+  gap: 10px;
 }
 
 .gallery {
@@ -185,7 +185,7 @@ p {
 }
 
 .gallery-item {
-  width: 50%; /* Adjust width as needed */
+  width: 50%; 
   height: 50%; 
   cursor: pointer;
   transition: transform 0.3s;
@@ -202,8 +202,8 @@ p {
 }
 @media screen and (max-width: 1300px) {
   .gallery {
-    display: block; /* Change to block-level display */
-    margin: 10px auto; /* Center the images */
+    display: block; 
+    margin: 10px auto;
   }
   .gallery-item {
     margin: 10px;
@@ -211,8 +211,8 @@ p {
 }
 @media screen and (max-width: 768px) {
   .gallery-item {
-    width: 100%; /* Make each item take up full width on smaller screens */
-    max-width: none; /* Remove the maximum width constraint */
+    width: 100%; 
+    max-width: none; 
   }
   .content{
     padding: 1px;
@@ -221,14 +221,14 @@ p {
 
 .back-button {
   position: relative;
-  top: 72px; /* Adjust top position as needed */
+  top: 72px; 
   left: 50%;
   transform: translateX(-50%);
   margin-bottom: 20px;
-  z-index: 1000; /* Ensure it's above other content */
+  z-index: 1000; 
   padding: 10px 20px;
-  background-color: #515151; /* Example button color */
-  color: #000000; /* Example button text color */
+  background-color: #515151; 
+  color: #000000; 
   border: none;
   border-radius: 5px;
   cursor: pointer;
@@ -237,12 +237,12 @@ p {
 }
 
 .back-button:hover {
-  background-color: #8f8f8fe3; /* Example hover color */
+  background-color: #8f8f8fe3;
 }
 
 .social-icons a {
-  color: #868686; /* Change the color to your desired color */
-  font-size: 24px; /* Change the size of the icons */
+  color: #868686; 
+  font-size: 24px; 
   margin-left: 10px;
   position: relative;
   z-index: 2;
