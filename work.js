@@ -17,3 +17,19 @@ function filterByCategory(category) {
   });
 }
 
+window.addEventListener('scroll', function() {
+  var backToTopBtn = document.getElementById('back-to-top-btn');
+  if (window.pageYOffset > 100) { 
+    backToTopBtn.style.display = 'block';
+  } else {
+    backToTopBtn.style.display = 'none';
+  }
+});
+
+document.getElementById('back-to-top-btn').addEventListener('click', function(event) {
+  event.preventDefault();
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+});
