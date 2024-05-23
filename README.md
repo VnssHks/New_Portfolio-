@@ -1,12 +1,12 @@
-# [Your Name]'s Portfolio
+# Vanessa's Portfolio
 
-Welcome to my portfolio! This website serves as a showcase of my work and skills in [mention your field or expertise]. Feel free to explore and get in touch if you have any questions or projects you'd like to discuss.
+Welcome to my portfolio! This website serves as a showcase of my work and skills in Cartography and GIS. Feel free to explore and get in touch if you have any questions or projects you'd like to discuss.
 
 ## Features
 
-- **Project Showcase:** Browse through my recent projects and see examples of my work in [mention specific skills or technologies].
+- **Project Showcase:** Browse through my recent projects and see examples of my work.
 - **Code Availability:** The code for this portfolio website is available on GitHub. Feel free to fork or contribute to it.
-- **Contact Me:** I'm open to new projects and collaborations. You can reach me via [insert contact information].
+- **Contact Me:** I'm open to new projects and collaborations. You can reach me via GitHub or Linkedin.
 
 ## Getting Started
 
@@ -22,15 +22,11 @@ To view this portfolio locally or contribute to the codebase, follow these steps
 - CSS
 - JavaScript
 
-## License
-
-This project is licensed under the [insert license name]. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 Feel free to reach out to me with any questions or inquiries:
 
-- Email: [your email address]
-- LinkedIn: [your LinkedIn profile URL]
-- GitHub: [your GitHub profile URL]
+- Email: vahenkes@gmail.com
+- LinkedIn: www.linkedin.com/in/vanessa-henkes-365240237
+- GitHub: (https://github.com/VnssHks)
 
