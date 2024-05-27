@@ -7,15 +7,21 @@ body{
     text-align: center;
     margin-top: 50px;
     color: #fff;
+    font-family: 'Raleway', sans-serif;
+
   }
   
   .banner h2 {
     margin: 20px;
     position: relative;
     z-index: 1;
+    font-family: 'Raleway', sans-serif;
+
   }
   .banner p{
     margin: 20px;
+    font-family: 'Raleway', sans-serif;
+
   }
   .social-icons a {
     color: #868686; 
@@ -110,10 +116,14 @@ body{
     padding: 10px;
     border-radius: 5px;
     color: #dfdfdf;
+    font-family: 'Raleway', sans-serif;
+
   }
 
   .flex-item p {
     margin-bottom: 5px;
+    font-family: 'Raleway', sans-serif;
+
   }
 
   
@@ -132,6 +142,8 @@ body{
   
   .skill p {
     margin: 0;
+    font-family: 'Raleway', sans-serif;
+
   }
   
   .skill-bar {
@@ -168,6 +180,8 @@ body{
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
+    font-family: 'Raleway', sans-serif;
+
   }
   
   .impressum-container {
@@ -176,14 +190,20 @@ body{
   .impressum-container p {
     margin: 5px 0; 
     line-height: 1;
+    font-family: 'Raleway', sans-serif;
+
   }
   
   .footer {
     background-color: #000000;
     color: #868686;
     padding: 10px 0; 
+    font-family: 'Raleway', sans-serif;
+
   }
   .copyright p {
-    margin: 3px 0; 
+    margin: 3px 0;
+    font-family: 'Raleway', sans-serif;
+
   }
   
